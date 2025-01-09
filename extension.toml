@@ -1,0 +1,7 @@
+id = "makefile-task-generator"
+name = "Makefile Task Generator"
+version = "0.0.1"
+schema_version = 1
+authors = ["Andre Rendeiro <afrendeiro@example.com>"]
+description = "Generates .tasks.json from Makefile entry points"
+repository = "https://github.com/afrendeiro/makefile-task-generator"
